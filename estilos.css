@@ -1,0 +1,13 @@
+/* Basic styles */
+body {
+  margin: 0;
+}
+.container {
+  border: 5px solid black;
+}
+.item {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
