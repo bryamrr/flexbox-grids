@@ -1,2 +1,3 @@
-# flexbox-grids
-Ejemplo de grillas con Flexbox
+# Grids with flexbox
+
+Grids example with flexbox layout technique
